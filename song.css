@@ -82,10 +82,10 @@ article A {
     letter-spacing: 1px;
   }
 
-  form {
+  /* form {
     text-align: center;
     display: inline-block;
-  }
+  } */
 
 .container {
   width: 100%;

@@ -28,6 +28,9 @@ function displayResults(json) {
 
     if(theJsonResponse.length === 0) {
       console.log("No results");
+    //   let h1 = document.createElement('h1');
+    //   h1 = "NO RESULTS";
+    //   section.appendChild(h1);
       } else {
 
           for(let i = 0; i < theJsonResponse.length && i <= 20; i++) {
