@@ -5,8 +5,8 @@
 textarea {
   font-family: "Helvetica Neue", sans-serif ;
   color: black;
-  font-size: 16pt;
-  letter-spacing: 1px;
+  /* font-size: 16pt; */
+  /* letter-spacing: 1px; */
 }
 
 
@@ -92,15 +92,16 @@ article A {
 }
 
 .leftSide {
-  width: 45%;
+  font-size: 1.2em;
+  width: 50%;
   text-align: center;
-  padding: 60px 30px 30px 30px;
+  padding: 140px 60px 60px 30px;
   float:  left
 
 }
 
 .rightSide {
-    width: 45%;
+    width: 40%;
     padding: 200px 30px 30px 30px;
     text-align: center;
     float: right;
